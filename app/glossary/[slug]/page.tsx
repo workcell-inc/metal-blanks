@@ -36,7 +36,7 @@ export async function generateMetadata({
       description,
       url: `https://metal-blanks.com/glossary/${term.slug}`,
       type: "article",
-      images: [{ url: "/images/steel-plate.jpg", width: 1200, height: 630 }],
+
     },
   };
 }

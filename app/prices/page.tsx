@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Track live LME spot prices for aluminum, copper, steel, brass, titanium, zinc, and nickel. Updated every 4 hours.",
     url: "https://metal-blanks.com/prices",
     type: "website",
-    images: [{ url: "/images/steel-plate.jpg", width: 1200, height: 630 }],
+
   },
 };
 

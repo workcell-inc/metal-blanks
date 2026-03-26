@@ -14,7 +14,7 @@ export const metadata: Metadata = {
       "Get a custom quote for metal blanks cut to your specifications.",
     url: "https://metal-blanks.com/quote",
     type: "website",
-    images: [{ url: "/images/steel-plate.jpg", width: 1200, height: 630 }],
+
   },
 };
 

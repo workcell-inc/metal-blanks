@@ -15,7 +15,7 @@ export const metadata: Metadata = {
       "Definitions for metal blank terms, steel grades, cutting processes, and industry standards.",
     url: "https://metal-blanks.com/glossary",
     type: "website",
-    images: [{ url: "/images/steel-plate.jpg", width: 1200, height: 630 }],
+
   },
 };
 

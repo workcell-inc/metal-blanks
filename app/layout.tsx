@@ -41,14 +41,6 @@ export const metadata: Metadata = {
     description:
       "The industry resource for steel, aluminum, copper, and specialty metal blanks — from precision machining stock to laser-cut shapes.",
     url: "https://metal-blanks.com",
-    images: [
-      {
-        url: "/images/steel-plate.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Metal-Blanks.com — precision-cut metal blanks",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",

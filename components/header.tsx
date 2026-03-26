@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { Logo } from "@/components/logo";
 
 const materials = [
   { name: "Steel Blanks", href: "/steel" },
@@ -28,12 +29,7 @@ export function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
-        <Link
-          href="/"
-          className="font-heading text-xl font-bold uppercase tracking-wider text-foreground"
-        >
-          METAL-BLANKS
-        </Link>
+        <Logo />
 
         {/* Desktop Nav */}
         <nav className="hidden items-center gap-1 md:flex">
