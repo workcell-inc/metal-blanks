@@ -1,65 +1,236 @@
 import Image from "next/image";
+import Link from "next/link";
+
+import { PriceStrip } from "@/components/price-strip";
+import { MaterialCard } from "@/components/material-card";
+import { BlogCard } from "@/components/blog-card";
+import { RfqBanner } from "@/components/rfq-banner";
+import { getAllPosts } from "@/lib/blog";
+
+const materials = [
+  {
+    name: "Steel Blanks",
+    slug: "steel",
+    tagline: "Hot rolled, cold rolled, and tool steel",
+    image: "/images/steel-texture.jpg",
+  },
+  {
+    name: "Aluminum Blanks",
+    slug: "aluminum",
+    tagline: "Lightweight and corrosion-resistant",
+    image: "/images/aluminum-texture.jpg",
+  },
+  {
+    name: "Copper Blanks",
+    slug: "copper",
+    tagline: "High conductivity for electrical applications",
+    image: "/images/copper-texture.jpg",
+  },
+  {
+    name: "Brass Blanks",
+    slug: "brass",
+    tagline: "Machinable for decorative and industrial use",
+    image: "/images/brass-texture.jpg",
+  },
+  {
+    name: "Stainless Steel Blanks",
+    slug: "stainless-steel",
+    tagline: "Corrosion-resistant for demanding environments",
+    image: "/images/stainless-texture.jpg",
+  },
+  {
+    name: "Titanium Blanks",
+    slug: "titanium",
+    tagline: "High-strength for aerospace and medical",
+    image: "/images/titanium-texture.jpg",
+  },
+];
+
+const buyerSegments = [
+  {
+    title: "Industrial & OEM",
+    description:
+      "Precision blanks with MTR documentation. Cut-to-size, no minimums.",
+    image: "/images/fabrication-welding.jpg",
+  },
+  {
+    title: "Knife Makers & Bladesmiths",
+    description:
+      "High-carbon tool steel blanks. 1084, D2, O1, CPM-154 in stock.",
+    image: "/images/knife-making.jpg",
+  },
+  {
+    title: "Laser & Fabrication Shops",
+    description:
+      "Laser-quality HR and CR steel. Flat, consistent, no warping.",
+    image: "/images/fabrication-sparks.jpg",
+  },
+];
+
+const trustStats = [
+  { number: "50,000+", label: "SKUs via Dealer Network" },
+  { number: "Live", label: "LME Pricing Data" },
+  { number: "MTRs", label: "Available on Request" },
+  { number: "No Minimums", label: "Order Any Quantity" },
+];
 
 export default function Home() {
+  const posts = getAllPosts().slice(0, 3);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify([
+            {
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Metal-Blanks.com",
+              url: "https://metal-blanks.com",
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              name: "Metal-Blanks.com",
+              url: "https://metal-blanks.com",
+              description:
+                "The industry resource for precision-cut metal blanks — steel, aluminum, copper, brass, stainless steel, and titanium.",
+              contactPoint: {
+                "@type": "ContactPoint",
+                contactType: "sales",
+                url: "https://metal-blanks.com/quote",
+              },
+            },
+          ]),
+        }}
+      />
+
+      {/* Price Strip */}
+      <PriceStrip />
+
+      {/* Hero */}
+      <section className="relative overflow-hidden py-24 md:py-32">
         <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
+          src="/images/hero-sparks.jpg"
+          alt="Sparks flying during metal cutting"
+          fill
+          className="object-cover opacity-20"
           priority
         />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+        <div className="relative mx-auto max-w-7xl px-6 text-center">
+          <h1 className="font-heading text-5xl font-bold uppercase tracking-tight text-foreground md:text-7xl">
+            Metal Blanks. Cut to Size. Shipped Fast.
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground md:text-xl">
+            The industry resource for steel, aluminum, copper, and specialty
+            metal blanks — from precision machining stock to laser-cut shapes.
           </p>
+          <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
+            <a
+              href="#materials"
+              className="inline-flex h-9 items-center justify-center rounded-lg border border-border bg-background px-4 text-sm font-medium transition-colors hover:bg-muted hover:text-foreground"
+            >
+              Browse Materials
+            </a>
+            <Link
+              href="/quote"
+              className="inline-flex h-9 items-center justify-center rounded-lg bg-primary px-4 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/80"
+            >
+              Get a Quote
+            </Link>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      {/* Material Grid */}
+      <section id="materials" className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-6">
+          <h2 className="mb-8 font-heading text-3xl font-bold uppercase tracking-tight text-foreground">
+            Materials
+          </h2>
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3">
+            {materials.map((m, i) => (
+              <MaterialCard
+                key={m.slug}
+                name={m.name}
+                slug={m.slug}
+                tagline={m.tagline}
+                image={m.image}
+                priority={i < 3}
+              />
+            ))}
+          </div>
         </div>
-      </main>
-    </div>
+      </section>
+
+      {/* Buyer Segments */}
+      {buyerSegments.map((segment) => (
+        <section
+          key={segment.title}
+          className="relative overflow-hidden border-y border-border"
+        >
+          <Image
+            src={segment.image}
+            alt={segment.title}
+            fill
+            className="object-cover opacity-10"
+          />
+          <div className="relative mx-auto max-w-7xl px-6 py-16">
+            <h3 className="font-heading text-2xl font-bold uppercase tracking-tight text-foreground">
+              {segment.title}
+            </h3>
+            <p className="mt-2 max-w-xl text-lg text-muted-foreground">
+              {segment.description}
+            </p>
+          </div>
+        </section>
+      ))}
+
+      {/* Trust Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-6">
+          <h2 className="font-heading text-3xl font-bold uppercase tracking-tight text-foreground">
+            Why Metal-Blanks.com
+          </h2>
+          <div className="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-4">
+            {trustStats.map((stat) => (
+              <div key={stat.number} className="text-center">
+                <div className="font-heading text-3xl font-bold text-foreground">
+                  {stat.number}
+                </div>
+                <p className="mt-1 text-sm text-muted-foreground">
+                  {stat.label}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Latest Blog Posts */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-6">
+          <h2 className="font-heading text-3xl font-bold uppercase tracking-tight text-foreground">
+            Latest from the Blog
+          </h2>
+          <div className="mt-10 grid grid-cols-1 gap-6 md:grid-cols-3">
+            {posts.map((post) => (
+              <BlogCard
+                key={post.slug}
+                title={post.title}
+                slug={post.slug}
+                date={post.date}
+                tags={post.tags}
+                readTime={post.readTime}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* RFQ Banner */}
+      <RfqBanner />
+    </>
   );
 }
