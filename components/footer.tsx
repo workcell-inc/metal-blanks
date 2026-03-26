@@ -12,6 +12,7 @@ const materialsLinks = [
 const resourcesLinks = [
   { name: "Blog", href: "/blog" },
   { name: "Live Prices", href: "/prices" },
+  { name: "Glossary", href: "/glossary" },
   { name: "About", href: "/about" },
 ];
 

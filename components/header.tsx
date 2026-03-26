@@ -17,6 +17,7 @@ const materials = [
 const navLinks = [
   { name: "Prices", href: "/prices" },
   { name: "Blog", href: "/blog" },
+  { name: "Glossary", href: "/glossary" },
 ];
 
 export function Header() {

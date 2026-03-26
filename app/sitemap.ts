@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { materials } from "@/lib/materials";
 import { materialPages } from "@/lib/pseo-data";
 import { getAllPosts } from "@/lib/blog";
+import { glossaryTerms } from "@/lib/glossary";
 
 const BASE_URL = "https://metal-blanks.com";
 
@@ -80,5 +81,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...hubPages, ...pseoPages, ...blogPosts];
+  const glossaryIndex: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE_URL}/glossary`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+  ];
+
+  const glossaryPages: MetadataRoute.Sitemap = glossaryTerms.map((t) => ({
+    url: `${BASE_URL}/glossary/${t.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.5,
+  }));
+
+  return [...staticPages, ...hubPages, ...pseoPages, ...blogPosts, ...glossaryIndex, ...glossaryPages];
 }

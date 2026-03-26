@@ -1,0 +1,1011 @@
+[
+  {
+    "term": "Metal Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-metal-blank",
+    "natural_question": "What is a metal blank?",
+    "description": "A metal blank is a flat piece of metal cut to a specific size or shape, ready to be formed, stamped, machined, or processed further. It's the starting material before a part is finished.",
+    "related_terms": [
+      "what-is-a-stamping-blank",
+      "what-is-a-laser-cut-blank",
+      "what-is-a-disc-blank",
+      "what-is-a-near-net-shape",
+      "what-is-blanking"
+    ]
+  },
+  {
+    "term": "Steel Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-steel-blank",
+    "natural_question": "What is a steel blank?",
+    "description": "A steel blank is a metal blank made from steel \u2014 typically carbon steel, stainless steel, or alloy steel \u2014 cut to size for further processing such as stamping, laser cutting, or machining.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-a36-steel",
+      "what-is-hot-rolled-steel",
+      "what-is-cold-rolled-steel",
+      "what-is-blanking"
+    ]
+  },
+  {
+    "term": "Aluminum Blank",
+    "abbreviation": null,
+    "slug": "what-is-an-aluminum-blank",
+    "natural_question": "What is an aluminum blank?",
+    "description": "An aluminum blank is a flat, cut-to-size piece of aluminum used as feedstock for laser cutting, CNC machining, stamping, or forming. Common alloys include 5052 and 6061.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-6061-aluminum",
+      "what-is-5052-aluminum",
+      "what-is-a-laser-cut-blank",
+      "what-is-anodizing"
+    ]
+  },
+  {
+    "term": "A36 Steel",
+    "abbreviation": "A36",
+    "slug": "what-is-a36-steel",
+    "natural_question": "What is A36 steel?",
+    "description": "A36 is the most common structural carbon steel grade in the US, defined by ASTM standard A36. It is weldable, machinable, and widely available as plate, sheet, and bar stock.",
+    "related_terms": [
+      "what-is-hot-rolled-steel",
+      "what-is-astm",
+      "what-is-a-steel-blank",
+      "what-is-tensile-strength",
+      "what-is-a-mill-test-report"
+    ]
+  },
+  {
+    "term": "1018 Steel",
+    "abbreviation": null,
+    "slug": "what-is-1018-steel",
+    "natural_question": "What is 1018 steel?",
+    "description": "1018 is a low-carbon cold-drawn steel with excellent machinability and weldability. It's commonly used for shafts, pins, and precision machined blanks.",
+    "related_terms": [
+      "what-is-cold-rolled-steel",
+      "what-is-a36-steel",
+      "what-is-bar-stock",
+      "what-is-a-steel-blank"
+    ]
+  },
+  {
+    "term": "1084 Steel",
+    "abbreviation": null,
+    "slug": "what-is-1084-steel",
+    "natural_question": "What is 1084 steel?",
+    "description": "1084 is a high-carbon steel popular with knife makers for its excellent edge retention and ease of heat treating. It's commonly sold as flat bar or blade blanks.",
+    "related_terms": [
+      "what-is-1095-steel",
+      "what-is-a-steel-blank",
+      "what-is-high-carbon-steel",
+      "what-is-heat-treating",
+      "what-is-hardening-and-tempering"
+    ]
+  },
+  {
+    "term": "1095 Steel",
+    "abbreviation": null,
+    "slug": "what-is-1095-steel",
+    "natural_question": "What is 1095 steel?",
+    "description": "1095 is a high-carbon spring steel with excellent hardness after heat treatment. It is one of the most popular steels for knife blades, springs, and cutting tools.",
+    "related_terms": [
+      "what-is-1084-steel",
+      "what-is-a-steel-blank",
+      "what-is-heat-treating",
+      "what-is-hardening-and-tempering",
+      "what-is-tensile-strength"
+    ]
+  },
+  {
+    "term": "4140 Steel",
+    "abbreviation": null,
+    "slug": "what-is-4140-steel",
+    "natural_question": "What is 4140 steel?",
+    "description": "4140 is a chromium-molybdenum alloy steel known for high strength, toughness, and wear resistance. Used in axles, gears, tooling, and structural components.",
+    "related_terms": [
+      "what-is-a36-steel",
+      "what-is-a-steel-blank",
+      "what-is-hardness-brinell-rockwell",
+      "what-is-tensile-strength",
+      "what-is-heat-treating"
+    ]
+  },
+  {
+    "term": "D2 Tool Steel",
+    "abbreviation": "D2",
+    "slug": "what-is-d2-tool-steel",
+    "natural_question": "What is D2 tool steel?",
+    "description": "D2 is a high-chromium, high-carbon tool steel known for exceptional wear resistance and edge retention. Widely used for dies, punches, and knife blades.",
+    "related_terms": [
+      "what-is-o1-tool-steel",
+      "what-is-1084-steel",
+      "what-is-hardening-and-tempering",
+      "what-is-a-steel-blank",
+      "what-is-blanking"
+    ]
+  },
+  {
+    "term": "O1 Tool Steel",
+    "abbreviation": "O1",
+    "slug": "what-is-o1-tool-steel",
+    "natural_question": "What is O1 tool steel?",
+    "description": "O1 is an oil-hardening tool steel prized for its ability to take and hold a sharp edge. Favored by knife makers and machinists for precision tooling.",
+    "related_terms": [
+      "what-is-d2-tool-steel",
+      "what-is-1084-steel",
+      "what-is-hardening-and-tempering",
+      "what-is-heat-treating"
+    ]
+  },
+  {
+    "term": "304 Stainless Steel",
+    "abbreviation": "304 SS",
+    "slug": "what-is-304-stainless-steel",
+    "natural_question": "What is 304 stainless steel?",
+    "description": "304 stainless steel is the most widely used stainless alloy, offering excellent corrosion resistance and formability. Common in food equipment, architectural panels, and laser-cut blanks.",
+    "related_terms": [
+      "what-is-316-stainless-steel",
+      "what-is-a-metal-blank",
+      "what-is-laser-cutting",
+      "what-is-a-mill-test-report"
+    ]
+  },
+  {
+    "term": "316 Stainless Steel",
+    "abbreviation": "316 SS",
+    "slug": "what-is-316-stainless-steel",
+    "natural_question": "What is 316 stainless steel?",
+    "description": "316 stainless steel contains molybdenum for superior corrosion resistance versus 304, especially in marine and chemical environments. Used in medical devices and marine hardware.",
+    "related_terms": [
+      "what-is-304-stainless-steel",
+      "what-is-a-metal-blank",
+      "what-is-a-mill-test-report"
+    ]
+  },
+  {
+    "term": "6061 Aluminum",
+    "abbreviation": "6061",
+    "slug": "what-is-6061-aluminum",
+    "natural_question": "What is 6061 aluminum?",
+    "description": "6061 is a heat-treatable aluminum alloy with excellent strength, machinability, and weldability. The go-to alloy for precision machined blanks, structural parts, and aerospace components.",
+    "related_terms": [
+      "what-is-5052-aluminum",
+      "what-is-7075-aluminum",
+      "what-is-an-aluminum-blank",
+      "what-is-anodizing",
+      "what-is-temper"
+    ]
+  },
+  {
+    "term": "5052 Aluminum",
+    "abbreviation": "5052",
+    "slug": "what-is-5052-aluminum",
+    "natural_question": "What is 5052 aluminum?",
+    "description": "5052 is a non-heat-treatable aluminum alloy with excellent formability and corrosion resistance. It is the most common sheet and blank alloy for stamping and forming applications.",
+    "related_terms": [
+      "what-is-6061-aluminum",
+      "what-is-an-aluminum-blank",
+      "what-is-stamping",
+      "what-is-temper"
+    ]
+  },
+  {
+    "term": "7075 Aluminum",
+    "abbreviation": "7075",
+    "slug": "what-is-7075-aluminum",
+    "natural_question": "What is 7075 aluminum?",
+    "description": "7075 is a high-strength aerospace aluminum alloy with strength comparable to many steels. Used in aircraft frames, high-stress structural components, and precision blanks.",
+    "related_terms": [
+      "what-is-6061-aluminum",
+      "what-is-an-aluminum-blank",
+      "what-is-tensile-strength"
+    ]
+  },
+  {
+    "term": "C110 Copper",
+    "abbreviation": "C110",
+    "slug": "what-is-c110-copper",
+    "natural_question": "What is C110 copper?",
+    "description": "C110 is electrolytic tough pitch (ETP) copper with 99.9% purity. The most common copper alloy used for electrical components, jewelry blanks, and decorative metalwork.",
+    "related_terms": [
+      "what-is-c260-brass",
+      "what-is-a-metal-blank",
+      "what-is-a-stamping-blank"
+    ]
+  },
+  {
+    "term": "C260 Brass",
+    "abbreviation": "C260",
+    "slug": "what-is-c260-brass",
+    "natural_question": "What is C260 brass?",
+    "description": "C260 is cartridge brass, a 70/30 copper-zinc alloy known for excellent cold-working properties. Widely used for stamping blanks, cartridge cases, and jewelry.",
+    "related_terms": [
+      "what-is-c110-copper",
+      "what-is-a-stamping-blank",
+      "what-is-a-metal-blank"
+    ]
+  },
+  {
+    "term": "Grade 5 Titanium",
+    "abbreviation": "Ti-6Al-4V",
+    "slug": "what-is-grade-5-titanium",
+    "natural_question": "What is Grade 5 titanium?",
+    "description": "Grade 5 titanium (Ti-6Al-4V) is the most widely used titanium alloy, offering high strength, low weight, and excellent corrosion resistance. Used in aerospace, medical implants, and premium knife hardware.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-tensile-strength",
+      "what-is-a-mill-test-report"
+    ]
+  },
+  {
+    "term": "HRPO Steel",
+    "abbreviation": "HRPO",
+    "slug": "what-is-hrpo-steel",
+    "natural_question": "What is HRPO steel?",
+    "description": "HRPO stands for Hot-Rolled Pickled and Oiled. It is hot-rolled steel that has been acid-cleaned (pickled) to remove mill scale and coated with oil to prevent rust. Preferred for stamping and laser cutting.",
+    "related_terms": [
+      "what-is-hot-rolled-steel",
+      "what-is-cold-rolled-steel",
+      "what-is-pickling-and-oiling",
+      "what-is-a-steel-blank",
+      "what-is-mill-finish"
+    ]
+  },
+  {
+    "term": "Hot-Rolled Steel",
+    "abbreviation": "HR",
+    "slug": "what-is-hot-rolled-steel",
+    "natural_question": "What is hot-rolled steel?",
+    "description": "Hot-rolled steel is produced by rolling steel at high temperature (above recrystallization point). It has a rough mill scale surface and looser tolerances than cold-rolled, but is less expensive and widely stocked.",
+    "related_terms": [
+      "what-is-cold-rolled-steel",
+      "what-is-hrpo-steel",
+      "what-is-a36-steel",
+      "what-is-mill-finish",
+      "what-is-pickling-and-oiling"
+    ]
+  },
+  {
+    "term": "Cold-Rolled Steel",
+    "abbreviation": "CR",
+    "slug": "what-is-cold-rolled-steel",
+    "natural_question": "What is cold-rolled steel?",
+    "description": "Cold-rolled steel is processed further after hot-rolling by passing through rollers at room temperature. It has tighter dimensional tolerances, a smoother surface finish, and higher strength than hot-rolled.",
+    "related_terms": [
+      "what-is-hot-rolled-steel",
+      "what-is-1018-steel",
+      "what-is-a-steel-blank",
+      "what-is-tolerances-in-metal"
+    ]
+  },
+  {
+    "term": "Bar Stock",
+    "abbreviation": null,
+    "slug": "what-is-bar-stock",
+    "natural_question": "What is bar stock?",
+    "description": "Bar stock is long, solid metal in a consistent cross-section \u2014 round, square, flat, or hex \u2014 sold by the foot or in standard lengths. It is the starting material for most machined parts.",
+    "related_terms": [
+      "what-is-flat-bar",
+      "what-is-a-billet",
+      "what-is-a-metal-blank",
+      "what-is-plate-vs-sheet"
+    ]
+  },
+  {
+    "term": "Flat Bar",
+    "abbreviation": null,
+    "slug": "what-is-flat-bar",
+    "natural_question": "What is a flat bar?",
+    "description": "A flat bar is a rectangular cross-section bar stock sold by length. It is wider than it is thick and used for brackets, frames, and cut-to-size flat blanks.",
+    "related_terms": [
+      "what-is-bar-stock",
+      "what-is-a-metal-blank",
+      "what-is-plate-vs-sheet"
+    ]
+  },
+  {
+    "term": "Plate vs Sheet",
+    "abbreviation": null,
+    "slug": "what-is-plate-vs-sheet",
+    "natural_question": "What is the difference between plate and sheet metal?",
+    "description": "Plate is metal thicker than 3/16 inch (4.76mm); sheet is thinner. Plate is used for structural and heavy fabrication work; sheet is used for stamping, forming, and laser cutting.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-blanking",
+      "what-is-laser-cutting",
+      "what-is-stamping",
+      "what-is-bar-stock"
+    ]
+  },
+  {
+    "term": "Billet",
+    "abbreviation": null,
+    "slug": "what-is-a-billet",
+    "natural_question": "What is a billet?",
+    "description": "A billet is a solid block or bar of metal \u2014 usually square or round \u2014 cut from rolled or cast stock, used as input material for forging, extrusion, or heavy machining.",
+    "related_terms": [
+      "what-is-bar-stock",
+      "what-is-a-metal-blank",
+      "what-is-a-preform",
+      "what-is-a-near-net-shape"
+    ]
+  },
+  {
+    "term": "Slug",
+    "abbreviation": null,
+    "slug": "what-is-a-slug",
+    "natural_question": "What is a slug in metal stamping?",
+    "description": "In stamping, a slug is the scrap piece punched out from the sheet when a hole is made \u2014 it is the waste, not the product. Do not confuse with a blank, which is the desired piece.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-blanking",
+      "what-is-punching-vs-blanking",
+      "what-is-piercing"
+    ]
+  },
+  {
+    "term": "Disc Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-disc-blank",
+    "natural_question": "What is a disc blank?",
+    "description": "A disc blank is a circular metal blank cut from sheet or plate. Disc blanks are used for wheels, flanges, signs, jewelry, and laser-engraved custom pieces.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-a-stamping-blank",
+      "what-is-laser-cutting",
+      "what-is-blanking"
+    ]
+  },
+  {
+    "term": "Preform",
+    "abbreviation": null,
+    "slug": "what-is-a-preform",
+    "natural_question": "What is a preform in metalworking?",
+    "description": "A preform is a roughly shaped piece of metal that has been partially worked but not yet brought to final dimensions. It is an intermediate step between raw stock and a finished part.",
+    "related_terms": [
+      "what-is-a-billet",
+      "what-is-a-metal-blank",
+      "what-is-a-near-net-shape",
+      "what-is-deep-drawing"
+    ]
+  },
+  {
+    "term": "Strip Steel",
+    "abbreviation": null,
+    "slug": "what-is-strip-steel",
+    "natural_question": "What is strip steel?",
+    "description": "Strip steel is thin, narrow coiled steel slit to a specific width from a wider coil. It is the feedstock for high-volume stamping and roll forming operations.",
+    "related_terms": [
+      "what-is-a-coil",
+      "what-is-blanking",
+      "what-is-stamping",
+      "what-is-plate-vs-sheet"
+    ]
+  },
+  {
+    "term": "Coil",
+    "abbreviation": null,
+    "slug": "what-is-a-coil",
+    "natural_question": "What is a metal coil?",
+    "description": "A coil is a continuous length of sheet or strip metal wound into a roll for efficient storage and transport. Coils are fed directly into stamping presses and roll forming machines.",
+    "related_terms": [
+      "what-is-strip-steel",
+      "what-is-blanking",
+      "what-is-stamping",
+      "what-is-plate-vs-sheet"
+    ]
+  },
+  {
+    "term": "Near-Net Shape",
+    "abbreviation": "NNS",
+    "slug": "what-is-a-near-net-shape",
+    "natural_question": "What is a near-net shape?",
+    "description": "A near-net shape is a blank or preform cut or cast very close to its final dimensions, minimizing the amount of machining or material removal needed to finish the part.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-a-preform",
+      "what-is-a-billet",
+      "what-is-a-nest-blank"
+    ]
+  },
+  {
+    "term": "Nest Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-nest-blank",
+    "natural_question": "What is a nest blank?",
+    "description": "A nest blank is a blank cut from a sheet using an optimized nesting layout, where multiple part shapes are arranged to minimize scrap. Common in laser and plasma cutting shops.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-laser-cutting",
+      "what-is-plasma-cutting",
+      "what-is-a-near-net-shape"
+    ]
+  },
+  {
+    "term": "Stamping Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-stamping-blank",
+    "natural_question": "What is a stamping blank?",
+    "description": "A stamping blank is a flat piece of metal cut to size for use in a stamping press. It can be a simple rectangle, circle, or complex profiled shape depending on the part being formed.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-blanking",
+      "what-is-stamping",
+      "what-is-a-disc-blank",
+      "what-is-strip-steel"
+    ]
+  },
+  {
+    "term": "Laser-Cut Blank",
+    "abbreviation": null,
+    "slug": "what-is-a-laser-cut-blank",
+    "natural_question": "What is a laser-cut blank?",
+    "description": "A laser-cut blank is a flat metal piece cut to shape using a fiber or CO2 laser. Laser cutting offers tight tolerances, clean edges, and the ability to cut complex profiles without tooling.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-laser-cutting",
+      "what-is-a-nest-blank",
+      "what-is-a-disc-blank",
+      "what-is-plate-vs-sheet"
+    ]
+  },
+  {
+    "term": "Blanking",
+    "abbreviation": null,
+    "slug": "what-is-blanking",
+    "natural_question": "What is blanking in metal fabrication?",
+    "description": "Blanking is a stamping process where a punch forces metal through a die to cut out a flat shape \u2014 the blank \u2014 from a sheet. The blank is the desired part; the surrounding sheet is the scrap.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-stamping",
+      "what-is-punching-vs-blanking",
+      "what-is-piercing",
+      "what-is-a-slug",
+      "what-is-fine-blanking"
+    ]
+  },
+  {
+    "term": "Fine Blanking",
+    "abbreviation": null,
+    "slug": "what-is-fine-blanking",
+    "natural_question": "What is fine blanking?",
+    "description": "Fine blanking is a precision blanking process that produces parts with smooth, square edges and tight tolerances in a single stroke. Used for automotive and medical components requiring no secondary operations.",
+    "related_terms": [
+      "what-is-blanking",
+      "what-is-stamping",
+      "what-is-tolerances-in-metal",
+      "what-is-a-metal-blank"
+    ]
+  },
+  {
+    "term": "Shearing",
+    "abbreviation": null,
+    "slug": "what-is-shearing",
+    "natural_question": "What is shearing in metalworking?",
+    "description": "Shearing is a cutting process that uses two blades \u2014 like giant scissors \u2014 to make straight cuts in sheet metal. It's the fastest way to cut rectangular blanks from flat stock.",
+    "related_terms": [
+      "what-is-blanking",
+      "what-is-laser-cutting",
+      "what-is-plasma-cutting",
+      "what-is-a-metal-blank"
+    ]
+  },
+  {
+    "term": "Punching vs Blanking",
+    "abbreviation": null,
+    "slug": "what-is-punching-vs-blanking",
+    "natural_question": "What is the difference between punching and blanking?",
+    "description": "In punching, the punched-out piece is the scrap (called a slug) and the sheet with holes is the product. In blanking, the punched-out piece is the product (the blank) and the surrounding sheet is scrap.",
+    "related_terms": [
+      "what-is-blanking",
+      "what-is-piercing",
+      "what-is-a-slug",
+      "what-is-a-metal-blank"
+    ]
+  },
+  {
+    "term": "Piercing",
+    "abbreviation": null,
+    "slug": "what-is-piercing",
+    "natural_question": "What is piercing in sheet metal?",
+    "description": "Piercing is a stamping operation that cuts holes in a metal part or blank. Unlike blanking, the cut-out material (slug) is discarded and the sheet with holes is the workpiece.",
+    "related_terms": [
+      "what-is-punching-vs-blanking",
+      "what-is-blanking",
+      "what-is-stamping",
+      "what-is-a-slug"
+    ]
+  },
+  {
+    "term": "Deep Drawing",
+    "abbreviation": null,
+    "slug": "what-is-deep-drawing",
+    "natural_question": "What is deep drawing?",
+    "description": "Deep drawing is a forming process where a flat metal blank is pressed into a die to create a cup, box, or shell shape. Used to make cans, pots, automotive panels, and enclosures.",
+    "related_terms": [
+      "what-is-a-metal-blank",
+      "what-is-stamping",
+      "what-is-a-stamping-blank",
+      "what-is-5052-aluminum"
+    ]
+  },
+  {
+    "term": "Stamping",
+    "abbreviation": null,
+    "slug": "what-is-stamping",
+    "natural_question": "What is metal stamping?",
+    "description": "Metal stamping is a manufacturing process that uses presses and dies to cut, bend, and shape flat metal blanks into finished parts. It is used for high-volume production of automotive, appliance, and electronic components.",
+    "related_terms": [
+      "what-is-blanking",
+      "what-is-a-stamping-blank",
+      "what-is-deep-drawing",
+      "what-is-a-coil",
+      "what-is-strip-steel"
+    ]
+  },
+  {
+    "term": "Laser Cutting",
+    "abbreviation": null,
+    "slug": "what-is-laser-cutting",
+    "natural_question": "What is laser cutting?",
+    "description": "Laser cutting uses a focused, high-powered laser beam to cut metal with extreme precision. Fiber lasers are the current standard for cutting steel, aluminum, and stainless with tight tolerances and clean edges.",
+    "related_terms": [
+      "what-is-a-laser-cut-blank",
+      "what-is-plasma-cutting",
+      "what-is-waterjet-cutting",
+      "what-is-a-nest-blank",
+      "what-is-shearing"
+    ]
+  },
+  {
+    "term": "Plasma Cutting",
+    "abbreviation": null,
+    "slug": "what-is-plasma-cutting",
+    "natural_question": "What is plasma cutting?",
+    "description": "Plasma cutting uses a high-temperature plasma arc to cut through electrically conductive metals. It is faster than laser cutting on thick plate but produces a wider kerf and rougher edge.",
+    "related_terms": [
+      "what-is-laser-cutting",
+      "what-is-waterjet-cutting",
+      "what-is-a-metal-blank",
+      "what-is-a-nest-blank"
+    ]
+  },
+  {
+    "term": "Waterjet Cutting",
+    "abbreviation": null,
+    "slug": "what-is-waterjet-cutting",
+    "natural_question": "What is waterjet cutting?",
+    "description": "Waterjet cutting uses a high-pressure stream of water mixed with abrasive to cut metal without heat. It produces no heat-affected zone and can cut thick materials with tight tolerances.",
+    "related_terms": [
+      "what-is-laser-cutting",
+      "what-is-plasma-cutting",
+      "what-is-a-metal-blank",
+      "what-is-tolerances-in-metal"
+    ]
+  },
+  {
+    "term": "Sawing Metal",
+    "abbreviation": null,
+    "slug": "what-is-sawing-metal",
+    "natural_question": "What is sawing in metal cutting?",
+    "description": "Sawing uses a toothed blade (band saw or cold saw) to cut bar stock, plate, and structural shapes to length. It is the most common method for cutting raw stock at a service center.",
+    "related_terms": [
+      "what-is-bar-stock",
+      "what-is-shearing",
+      "what-is-a-metal-blank",
+      "what-is-a-billet"
+    ]
+  },
+  {
+    "term": "Nesting",
+    "abbreviation": null,
+    "slug": "what-is-nesting",
+    "natural_question": "What is nesting in metal fabrication?",
+    "description": "Nesting is the process of arranging part shapes on a sheet to maximize material use and minimize scrap. Nesting software is used by laser and plasma cutting shops to reduce material waste.",
+    "related_terms": [
+      "what-is-a-nest-blank",
+      "what-is-laser-cutting",
+      "what-is-plasma-cutting",
+      "what-is-a-metal-blank"
+    ]
+  },
+  {
+    "term": "Annealing",
+    "abbreviation": null,
+    "slug": "what-is-annealing",
+    "natural_question": "What is annealing?",
+    "description": "Annealing is a heat treatment process that softens metal by heating it to a specific temperature and slowly cooling it. It relieves internal stress and improves ductility for forming.",
+    "related_terms": [
+      "what-is-heat-treating",
+      "what-is-hardening-and-tempering",
+      "what-is-normalizing",
+      "what-is-temper"
+    ]
+  },
+  {
+    "term": "Heat Treating",
+    "abbreviation": "HT",
+    "slug": "what-is-heat-treating",
+    "natural_question": "What is heat treating?",
+    "description": "Heat treating is a group of industrial processes that alter the physical and mechanical properties of metal through controlled heating and cooling. It includes annealing, hardening, tempering, and normalizing.",
+    "related_terms": [
+      "what-is-annealing",
+      "what-is-hardening-and-tempering",
+      "what-is-normalizing",
+      "what-is-hardness-brinell-rockwell"
+    ]
+  },
+  {
+    "term": "Hardening and Tempering",
+    "abbreviation": "H&T",
+    "slug": "what-is-hardening-and-tempering",
+    "natural_question": "What is hardening and tempering?",
+    "description": "Hardening heats steel above its critical temperature and quenches it rapidly to increase hardness. Tempering then reheats it at a lower temperature to reduce brittleness while retaining strength.",
+    "related_terms": [
+      "what-is-heat-treating",
+      "what-is-annealing",
+      "what-is-1084-steel",
+      "what-is-d2-tool-steel",
+      "what-is-hardness-brinell-rockwell"
+    ]
+  },
+  {
+    "term": "Normalizing",
+    "abbreviation": null,
+    "slug": "what-is-normalizing",
+    "natural_question": "What is normalizing in metalworking?",
+    "description": "Normalizing is a heat treatment that heats steel above its critical temperature and air-cools it to produce a uniform, fine-grained microstructure. It relieves stress and improves machinability.",
+    "related_terms": [
+      "what-is-annealing",
+      "what-is-heat-treating",
+      "what-is-hardening-and-tempering"
+    ]
+  },
+  {
+    "term": "Mill Test Report",
+    "abbreviation": "MTR",
+    "slug": "what-is-a-mill-test-report",
+    "natural_question": "What is a mill test report?",
+    "description": "A mill test report (MTR) is a quality document provided by a metal manufacturer that certifies the chemical composition and mechanical properties of a batch of metal. Required for aerospace, defense, and many industrial applications.",
+    "related_terms": [
+      "what-is-a-cert",
+      "what-is-a-heat-number",
+      "what-is-astm",
+      "what-is-a-steel-distributor",
+      "what-is-a-metal-service-center"
+    ]
+  },
+  {
+    "term": "Certificate of Conformance",
+    "abbreviation": "CoC / C of C",
+    "slug": "what-is-a-cert",
+    "natural_question": "What is a certificate of conformance?",
+    "description": "A certificate of conformance (CoC) is a document from a supplier declaring that a product meets the required specification or standard. Often required alongside an MTR for regulated industries.",
+    "related_terms": [
+      "what-is-a-mill-test-report",
+      "what-is-a-heat-number",
+      "what-is-astm"
+    ]
+  },
+  {
+    "term": "Heat Number",
+    "abbreviation": null,
+    "slug": "what-is-a-heat-number",
+    "natural_question": "What is a heat number on metal?",
+    "description": "A heat number is a unique identifier assigned to a batch of metal produced in a single melting operation. It links the material to its mill test report for full traceability.",
+    "related_terms": [
+      "what-is-a-mill-test-report",
+      "what-is-a-cert",
+      "what-is-astm"
+    ]
+  },
+  {
+    "term": "ASTM",
+    "abbreviation": "ASTM",
+    "slug": "what-is-astm",
+    "natural_question": "What is ASTM in metals?",
+    "description": "ASTM International publishes voluntary consensus standards for materials, products, and testing. ASTM grades like A36, A108, and A500 define the chemical and mechanical requirements for steel products.",
+    "related_terms": [
+      "what-is-a36-steel",
+      "what-is-a-mill-test-report",
+      "what-is-tensile-strength",
+      "what-is-yield-strength"
+    ]
+  },
+  {
+    "term": "Tolerances",
+    "abbreviation": null,
+    "slug": "what-is-tolerances-in-metal",
+    "natural_question": "What are tolerances in metal?",
+    "description": "Tolerances define the allowable range of variation in a dimension \u2014 thickness, width, length, or flatness. Tighter tolerances require more precise processing and typically cost more.",
+    "related_terms": [
+      "what-is-flatness-tolerance",
+      "what-is-cold-rolled-steel",
+      "what-is-a-mill-test-report",
+      "what-is-a-near-net-shape"
+    ]
+  },
+  {
+    "term": "Burr",
+    "abbreviation": null,
+    "slug": "what-is-a-burr",
+    "natural_question": "What is a burr on a metal part?",
+    "description": "A burr is a raised edge or rough projection left on a metal part after cutting, stamping, or drilling. Burrs must be removed (deburred) for safe handling and proper part fit.",
+    "related_terms": [
+      "what-is-blanking",
+      "what-is-laser-cutting",
+      "what-is-shearing",
+      "what-is-fine-blanking"
+    ]
+  },
+  {
+    "term": "Flatness Tolerance",
+    "abbreviation": null,
+    "slug": "what-is-flatness-tolerance",
+    "natural_question": "What is flatness tolerance in metal?",
+    "description": "Flatness tolerance specifies how much a metal sheet or plate can deviate from a perfectly flat surface. Laser cutting and precision stamping require tight flatness \u2014 wavy or bowed stock causes defects.",
+    "related_terms": [
+      "what-is-tolerances-in-metal",
+      "what-is-a-laser-cut-blank",
+      "what-is-plate-vs-sheet",
+      "what-is-cold-rolled-steel"
+    ]
+  },
+  {
+    "term": "Brinell / Rockwell Hardness",
+    "abbreviation": "HB / HRC",
+    "slug": "what-is-hardness-brinell-rockwell",
+    "natural_question": "What is Brinell and Rockwell hardness?",
+    "description": "Brinell (HB) and Rockwell (HRC) are scales for measuring metal hardness by indentation. HRC is common for tool steels and knife steels; HB is used for structural and softer metals.",
+    "related_terms": [
+      "what-is-a-mill-test-report",
+      "what-is-heat-treating",
+      "what-is-d2-tool-steel",
+      "what-is-tensile-strength"
+    ]
+  },
+  {
+    "term": "Tensile Strength",
+    "abbreviation": "UTS",
+    "slug": "what-is-tensile-strength",
+    "natural_question": "What is tensile strength?",
+    "description": "Tensile strength (ultimate tensile strength, UTS) is the maximum stress a material can withstand while being stretched before breaking. It is a key property listed on mill test reports.",
+    "related_terms": [
+      "what-is-yield-strength",
+      "what-is-a-mill-test-report",
+      "what-is-astm",
+      "what-is-hardness-brinell-rockwell"
+    ]
+  },
+  {
+    "term": "Yield Strength",
+    "abbreviation": "YS",
+    "slug": "what-is-yield-strength",
+    "natural_question": "What is yield strength?",
+    "description": "Yield strength is the stress at which a metal begins to deform permanently. Below the yield point, deformation is elastic and reversible; above it, the metal is permanently bent or stretched.",
+    "related_terms": [
+      "what-is-tensile-strength",
+      "what-is-a-mill-test-report",
+      "what-is-astm",
+      "what-is-4140-steel"
+    ]
+  },
+  {
+    "term": "Metal Service Center",
+    "abbreviation": null,
+    "slug": "what-is-a-metal-service-center",
+    "natural_question": "What is a metal service center?",
+    "description": "A metal service center is a distributor that buys metal in large quantities from mills and resells it in smaller quantities with value-added processing such as cutting, sawing, and slitting.",
+    "related_terms": [
+      "what-is-a-steel-distributor",
+      "what-is-cut-to-size-metal",
+      "what-is-lead-time",
+      "what-is-a-mill-test-report",
+      "what-is-an-rfq"
+    ]
+  },
+  {
+    "term": "Cut to Size",
+    "abbreviation": null,
+    "slug": "what-is-cut-to-size-metal",
+    "natural_question": "What does cut to size mean in metal?",
+    "description": "Cut to size means metal is cut to the buyer's specified dimensions before shipment rather than shipping a full-length piece. Service centers and online metal suppliers commonly offer this for plate, sheet, and bar.",
+    "related_terms": [
+      "what-is-a-metal-service-center",
+      "what-is-a-metal-blank",
+      "what-is-shearing",
+      "what-is-sawing-metal",
+      "what-is-laser-cutting"
+    ]
+  },
+  {
+    "term": "Lead Time",
+    "abbreviation": null,
+    "slug": "what-is-lead-time",
+    "natural_question": "What is lead time in metal supply?",
+    "description": "Lead time is the time between placing an order and receiving the material. For service centers, lead times range from same-day (stock items) to 6+ weeks (mill orders or specialty alloys).",
+    "related_terms": [
+      "what-is-a-metal-service-center",
+      "what-is-an-rfq",
+      "what-is-minimum-order-quantity",
+      "what-is-a-steel-distributor"
+    ]
+  },
+  {
+    "term": "Steel Distributor",
+    "abbreviation": null,
+    "slug": "what-is-a-steel-distributor",
+    "natural_question": "What is a steel distributor?",
+    "description": "A steel distributor purchases steel from mills and resells it to manufacturers, fabricators, and machine shops. Also called a steel service center, they stock common grades and sizes for fast delivery.",
+    "related_terms": [
+      "what-is-a-metal-service-center",
+      "what-is-lead-time",
+      "what-is-a-mill-test-report",
+      "what-is-an-rfq"
+    ]
+  },
+  {
+    "term": "Steel Mill",
+    "abbreviation": null,
+    "slug": "what-is-a-steel-mill",
+    "natural_question": "What is a steel mill?",
+    "description": "A steel mill is a facility that produces steel from raw materials (iron ore, scrap) using furnaces and rolling equipment. Mills sell in large coils, bundles, or plates \u2014 service centers buy from mills and break into smaller quantities.",
+    "related_terms": [
+      "what-is-a-metal-service-center",
+      "what-is-a-steel-distributor",
+      "what-is-a-mill-test-report",
+      "what-is-hot-rolled-steel"
+    ]
+  },
+  {
+    "term": "Spot Price",
+    "abbreviation": null,
+    "slug": "what-is-spot-price-metal",
+    "natural_question": "What is the spot price of metal?",
+    "description": "The spot price is the current market price for immediate delivery of a metal commodity. For aluminum, copper, and steel, spot prices fluctuate daily based on global supply and demand.",
+    "related_terms": [
+      "what-is-lme-price",
+      "what-is-a-steel-distributor",
+      "what-is-a-metal-service-center"
+    ]
+  },
+  {
+    "term": "LME Price",
+    "abbreviation": "LME",
+    "slug": "what-is-lme-price",
+    "natural_question": "What is the LME price for metals?",
+    "description": "The London Metal Exchange (LME) sets the global benchmark prices for base metals including aluminum, copper, zinc, nickel, and tin. LME prices drive pricing at distributors and service centers worldwide.",
+    "related_terms": [
+      "what-is-spot-price-metal",
+      "what-is-a-steel-distributor",
+      "what-is-a-metal-service-center"
+    ]
+  },
+  {
+    "term": "Purchase Order",
+    "abbreviation": "PO",
+    "slug": "what-is-a-purchase-order",
+    "natural_question": "What is a purchase order?",
+    "description": "A purchase order (PO) is a formal document a buyer sends to a supplier authorizing the purchase of specific goods at an agreed price. It creates a legal contract between the buyer and supplier.",
+    "related_terms": [
+      "what-is-an-rfq",
+      "what-is-lead-time",
+      "what-is-a-metal-service-center"
+    ]
+  },
+  {
+    "term": "Request for Quote",
+    "abbreviation": "RFQ",
+    "slug": "what-is-an-rfq",
+    "natural_question": "What is an RFQ in metal procurement?",
+    "description": "An RFQ (Request for Quote) is a document a buyer sends to suppliers asking for pricing on a specific material, quantity, and specification. It is the standard first step in B2B metal purchasing.",
+    "related_terms": [
+      "what-is-a-purchase-order",
+      "what-is-lead-time",
+      "what-is-a-metal-service-center",
+      "what-is-minimum-order-quantity"
+    ]
+  },
+  {
+    "term": "Minimum Order Quantity",
+    "abbreviation": "MOQ",
+    "slug": "what-is-minimum-order-quantity",
+    "natural_question": "What is minimum order quantity?",
+    "description": "Minimum order quantity (MOQ) is the smallest amount a supplier will sell in a single order. Metal service centers may set MOQs by weight (e.g., 100 lbs) or dollar value.",
+    "related_terms": [
+      "what-is-an-rfq",
+      "what-is-lead-time",
+      "what-is-a-metal-service-center"
+    ]
+  },
+  {
+    "term": "Mill Finish",
+    "abbreviation": null,
+    "slug": "what-is-mill-finish",
+    "natural_question": "What is mill finish on metal?",
+    "description": "Mill finish is the surface condition of metal as it comes directly from the rolling mill \u2014 no additional polishing or treatment. It often has a dull, slightly rough appearance with mill scale on hot-rolled steel.",
+    "related_terms": [
+      "what-is-hot-rolled-steel",
+      "what-is-hrpo-steel",
+      "what-is-brushed-finish",
+      "what-is-pickling-and-oiling"
+    ]
+  },
+  {
+    "term": "Brushed Finish",
+    "abbreviation": null,
+    "slug": "what-is-brushed-finish",
+    "natural_question": "What is a brushed finish on metal?",
+    "description": "A brushed finish is created by mechanically abrading the metal surface with a fine abrasive belt or pad, leaving fine parallel lines. Common on stainless steel appliances and architectural panels.",
+    "related_terms": [
+      "what-is-mill-finish",
+      "what-is-anodizing",
+      "what-is-304-stainless-steel"
+    ]
+  },
+  {
+    "term": "Anodizing",
+    "abbreviation": null,
+    "slug": "what-is-anodizing",
+    "natural_question": "What is anodizing?",
+    "description": "Anodizing is an electrochemical process that grows a protective oxide layer on aluminum, increasing corrosion resistance and allowing dyeing for color. Type II (standard) and Type III (hard coat) are the most common.",
+    "related_terms": [
+      "what-is-6061-aluminum",
+      "what-is-an-aluminum-blank",
+      "what-is-mill-finish",
+      "what-is-brushed-finish"
+    ]
+  },
+  {
+    "term": "Galvanizing",
+    "abbreviation": null,
+    "slug": "what-is-galvanizing",
+    "natural_question": "What is galvanizing?",
+    "description": "Galvanizing is the process of coating steel with a layer of zinc to protect it from corrosion. Hot-dip galvanizing and electro-galvanizing are the two main methods used in the industry.",
+    "related_terms": [
+      "what-is-hot-rolled-steel",
+      "what-is-a-steel-blank",
+      "what-is-mill-finish",
+      "what-is-powder-coating"
+    ]
+  },
+  {
+    "term": "Powder Coating",
+    "abbreviation": null,
+    "slug": "what-is-powder-coating",
+    "natural_question": "What is powder coating?",
+    "description": "Powder coating is a dry finishing process where electrostatically charged powder is applied to a metal surface and cured in an oven, producing a durable, even color finish superior to liquid paint.",
+    "related_terms": [
+      "what-is-galvanizing",
+      "what-is-anodizing",
+      "what-is-a-metal-blank",
+      "what-is-mill-finish"
+    ]
+  },
+  {
+    "term": "Pickling and Oiling",
+    "abbreviation": "P&O",
+    "slug": "what-is-pickling-and-oiling",
+    "natural_question": "What is pickling and oiling steel?",
+    "description": "Pickling removes mill scale from hot-rolled steel using acid, and oiling applies a thin protective oil coat to prevent rust. The result is HRPO steel \u2014 a cleaner surface for stamping and laser cutting.",
+    "related_terms": [
+      "what-is-hrpo-steel",
+      "what-is-hot-rolled-steel",
+      "what-is-mill-finish",
+      "what-is-a-steel-blank"
+    ]
+  },
+  {
+    "term": "Temper",
+    "abbreviation": null,
+    "slug": "what-is-temper",
+    "natural_question": "What is temper in aluminum?",
+    "description": "Temper describes the mechanical condition of aluminum after processing \u2014 how it was strengthened by work-hardening (-H) or heat treatment (-T). For example, 6061-T6 means the alloy 6061 in a T6 heat-treated temper.",
+    "related_terms": [
+      "what-is-6061-aluminum",
+      "what-is-5052-aluminum",
+      "what-is-annealing",
+      "what-is-hardening-and-tempering"
+    ]
+  }
+]
