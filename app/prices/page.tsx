@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Live Metal Prices — LME Spot Rates",
+  title: "Live Metal Prices: LME Spot Rates",
   description:
     "Track live LME spot prices for aluminum, copper, steel, brass, titanium, zinc, and nickel. Updated every 4 hours.",
   alternates: {
     canonical: "/prices",
   },
   openGraph: {
-    title: "Live Metal Prices — LME Spot Rates",
+    title: "Live Metal Prices: LME Spot Rates",
     description:
       "Track live LME spot prices for aluminum, copper, steel, brass, titanium, zinc, and nickel. Updated every 4 hours.",
     url: "https://metal-blanks.com/prices",

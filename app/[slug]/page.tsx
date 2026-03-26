@@ -34,13 +34,13 @@ export async function generateMetadata({
       ? material.intro.slice(0, material.intro.lastIndexOf(" ", 155)) + "..."
       : material.intro;
   return {
-    title: `${material.name} Blanks — Grades & Specs`,
+    title: `${material.name} Blanks: Grades & Specs`,
     description,
     alternates: {
       canonical: `/${material.slug}`,
     },
     openGraph: {
-      title: `${material.name} Blanks — Grades & Specs`,
+      title: `${material.name} Blanks: Grades & Specs`,
       description,
       url: `https://metal-blanks.com/${material.slug}`,
       type: "website",

@@ -19,8 +19,8 @@ export async function generateMetadata({
   const term = getTermBySlug(slug);
   if (!term) return {};
   const title = term.abbreviation
-    ? `${term.term} (${term.abbreviation}) — Definition`
-    : `${term.term} — Definition`;
+    ? `${term.term} (${term.abbreviation}): Definition`
+    : `${term.term}: Definition`;
   const description =
     term.description.length > 155
       ? term.description.slice(0, term.description.lastIndexOf(" ", 155)) + "..."

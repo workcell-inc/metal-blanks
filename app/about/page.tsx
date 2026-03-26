@@ -3,7 +3,7 @@ import Link from "next/link";
 import { RfqBanner } from "@/components/rfq-banner";
 
 export const metadata: Metadata = {
-  title: "About Us — Precision Metal Blanks",
+  title: "About Us: Precision Metal Blanks",
   description:
     "Metal-Blanks.com is the industry resource for precision-cut metal blanks. Live pricing, detailed specs, and instant quotes.",
   alternates: {
@@ -34,7 +34,7 @@ export default function AboutPage() {
             Metal-Blanks.com is the industry resource for precision-cut metal
             blanks. We connect buyers with a dealer network that stocks over
             50,000 SKUs across steel, aluminum, copper, brass, stainless steel,
-            and titanium — available in sheet, plate, bar, disc, and laser-cut
+            and titanium, available in sheet, plate, bar, disc, and laser-cut
             forms.
           </p>
           <p>
@@ -54,10 +54,10 @@ export default function AboutPage() {
             </li>
             <li>
               <strong>Detailed material specs</strong> for every grade we carry
-              — mechanical properties, common uses, and available dimensions.
+              , including mechanical properties, common uses, and available dimensions.
             </li>
             <li>
-              <strong>Instant RFQ</strong> — submit your dimensions and
+              <strong>Instant RFQ:</strong> submit your dimensions and
               quantities and receive quotes from our dealer network.
             </li>
             <li>
@@ -92,30 +92,30 @@ export default function AboutPage() {
           </p>
           <ul className="list-inside list-disc space-y-2">
             <li>
-              <strong>Steel</strong> — A36 structural plate, 1018 cold rolled
+              <strong>Steel:</strong> A36 structural plate, 1018 cold rolled
               bar, 1084 and 1095 high-carbon knife steel, 4140 alloy, D2 and O1
               tool steel.
             </li>
             <li>
-              <strong>Aluminum</strong> — 6061-T6 sheet, plate, and bar; 7075-T6
+              <strong>Aluminum:</strong> 6061-T6 sheet, plate, and bar; 7075-T6
               aerospace grade; 5052-H32 marine grade; 2024-T3 aircraft skin;
               3003-H14 forming grade.
             </li>
             <li>
-              <strong>Stainless Steel</strong> — 304 and 316 austenitic sheet,
+              <strong>Stainless Steel:</strong> 304 and 316 austenitic sheet,
               303 free-machining bar, 410 martensitic plate, 17-4 PH
               precipitation-hardened bar.
             </li>
             <li>
-              <strong>Copper</strong> — C110 ETP, C101 OFHC, and C122 DHP sheet
+              <strong>Copper:</strong> C110 ETP, C101 OFHC, and C122 DHP sheet
               for electrical, thermal, and plumbing applications.
             </li>
             <li>
-              <strong>Brass</strong> — C260 cartridge brass sheet, C360
+              <strong>Brass:</strong> C260 cartridge brass sheet, C360
               free-machining bar, C464 naval brass for marine service.
             </li>
             <li>
-              <strong>Titanium</strong> — Grade 2 commercially pure sheet, Grade
+              <strong>Titanium:</strong> Grade 2 commercially pure sheet, Grade
               5 Ti-6Al-4V plate and bar for aerospace and medical applications.
             </li>
           </ul>

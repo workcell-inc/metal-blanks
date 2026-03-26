@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Terms of Service",
   description:
-    "Terms of service for Metal-Blanks.com — the terms and conditions governing your use of our website and services.",
+    "Terms of service for Metal-Blanks.com. The terms and conditions governing your use of our website and services.",
   alternates: {
     canonical: "/terms",
   },
@@ -49,7 +49,7 @@ export default function TermsPage() {
           <p className="mt-3">
             Metal-Blanks.com provides metal blank pricing information, material
             specifications, and a quote request system that connects buyers with
-            our dealer network. We act as an intermediary — orders are fulfilled
+            our dealer network. We act as an intermediary. Orders are fulfilled
             by independent dealers, and Metal-Blanks.com is not the direct
             seller of physical goods.
           </p>
@@ -100,8 +100,8 @@ export default function TermsPage() {
             Intellectual Property
           </h2>
           <p className="mt-3">
-            All content on Metal-Blanks.com — including text, graphics, data,
-            and code — is the property of Metal-Blanks.com or its content
+            All content on Metal-Blanks.com (including text, graphics, data,
+            and code) is the property of Metal-Blanks.com or its content
             suppliers and is protected by applicable intellectual property laws.
             You may not reproduce, distribute, or create derivative works from
             this content without written permission.

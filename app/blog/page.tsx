@@ -3,14 +3,14 @@ import { getAllPosts } from "@/lib/blog";
 import { BlogCard } from "@/components/blog-card";
 
 export const metadata: Metadata = {
-  title: "Blog — Guides & Industry Knowledge",
+  title: "Blog: Guides & Industry Knowledge",
   description:
     "Guides, comparisons, and industry knowledge for metal blank buyers. Steel, aluminum, copper, brass, stainless, and titanium.",
   alternates: {
     canonical: "/blog",
   },
   openGraph: {
-    title: "Blog — Guides & Industry Knowledge",
+    title: "Blog: Guides & Industry Knowledge",
     description:
       "Guides, comparisons, and industry knowledge for metal blank buyers.",
     url: "https://metal-blanks.com/blog",

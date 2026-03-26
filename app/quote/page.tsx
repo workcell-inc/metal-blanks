@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import { QuoteForm } from "@/components/quote-form";
 
 export const metadata: Metadata = {
-  title: "Request a Quote — Custom Metal Blanks",
+  title: "Request a Quote: Custom Metal Blanks",
   description:
     "Get a custom quote for metal blanks cut to your specifications. Steel, aluminum, copper, brass, stainless steel, and titanium.",
   alternates: {
     canonical: "/quote",
   },
   openGraph: {
-    title: "Request a Quote — Custom Metal Blanks",
+    title: "Request a Quote: Custom Metal Blanks",
     description:
       "Get a custom quote for metal blanks cut to your specifications.",
     url: "https://metal-blanks.com/quote",

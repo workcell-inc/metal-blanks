@@ -3,14 +3,14 @@ import Link from "next/link";
 import { getGroupedTerms, glossaryTerms } from "@/lib/glossary";
 
 export const metadata: Metadata = {
-  title: "Metal Blanks Glossary — 77 Terms Defined",
+  title: "Metal Blanks Glossary: 77 Terms Defined",
   description:
     "Definitions for metal blank terms, steel grades, cutting processes, and industry standards. From A36 to waterjet cutting.",
   alternates: {
     canonical: "/glossary",
   },
   openGraph: {
-    title: "Metal Blanks Glossary — 77 Terms Defined",
+    title: "Metal Blanks Glossary: 77 Terms Defined",
     description:
       "Definitions for metal blank terms, steel grades, cutting processes, and industry standards.",
     url: "https://metal-blanks.com/glossary",

@@ -5,17 +5,17 @@ date: "2026-03-15"
 tags: ["buying-guide", "tolerances", "general"]
 material: "general"
 segment: "industrial"
-description: "Learn about standard metal blank tolerances for thickness, flatness, and dimensions — and when to specify tighter specs."
+description: "Learn about standard metal blank tolerances for thickness, flatness, and dimensions, and when to specify tighter specs."
 readTime: "7 min read"
 ---
 
 ## What Tolerance Actually Means
 
-Tolerance is the permissible variation in a dimension. When you order a 0.250" thick aluminum blank, you're not getting exactly 0.250" — you're getting something within an acceptable range around that target. Tolerance defines how wide that range is.
+Tolerance is the permissible variation in a dimension. When you order a 0.250" thick aluminum blank, you're not getting exactly 0.250". You're getting something within an acceptable range around that target. Tolerance defines how wide that range is.
 
 Tolerances are expressed as a plus/minus deviation from the nominal dimension. A blank specified as 0.250" +/- 0.005" can be anywhere from 0.245" to 0.255" and still be in spec. That's a total tolerance band of 0.010".
 
-Every dimension on a metal blank has a tolerance: thickness, width, length, flatness, squareness, and surface finish. This applies whether you're ordering [steel blanks](/steel), [aluminum blanks](/aluminum), or [copper blanks](/copper). Some of these are controlled by the mill that produced the raw stock. Others are controlled by the blank supplier's cutting and processing operations. Understanding which tolerances come from where helps you specify only what you actually need — and avoid paying for precision that doesn't matter.
+Every dimension on a metal blank has a tolerance: thickness, width, length, flatness, squareness, and surface finish. This applies whether you're ordering [steel blanks](/steel), [aluminum blanks](/aluminum), or [copper blanks](/copper). Some of these are controlled by the mill that produced the raw stock. Others are controlled by the blank supplier's cutting and processing operations. Understanding which tolerances come from where helps you specify only what you actually need, and avoid paying for precision that doesn't matter.
 
 ## Standard Mill Tolerances
 
@@ -29,7 +29,7 @@ For hot-rolled steel plate (ASTM A6), standard thickness tolerances depend on th
 - **3/8" to 3/4" thick, under 48" wide:** +0.045" / -0.010"
 - **Over 3/4" to 1" thick, under 48" wide:** +0.050" / -0.010"
 
-Notice these are asymmetric — mills run on the plus side to ensure minimum weight compliance. You'll almost always receive plate that's at or above nominal thickness.
+Notice these are asymmetric. Mills run on the plus side to ensure minimum weight compliance. You'll almost always receive plate that's at or above nominal thickness.
 
 Cold-rolled sheet (ASTM A568) has tighter tolerances than hot-rolled:
 
@@ -57,16 +57,16 @@ The takeaway: cold-finished and cold-rolled products have significantly tighter 
 
 These are separate characteristics, and confusing them is one of the most common mistakes buyers make.
 
-**Thickness tolerance** controls how far the actual thickness can deviate from the nominal value. A plate that's called out as 0.500" +/- 0.010" could be 0.495" at one point and 0.508" at another, and both measurements are within tolerance — even though the plate varies by 0.013" across its surface.
+**Thickness tolerance** controls how far the actual thickness can deviate from the nominal value. A plate that's called out as 0.500" +/- 0.010" could be 0.495" at one point and 0.508" at another, and both measurements are within tolerance, even though the plate varies by 0.013" across its surface.
 
-**Flatness** controls how much a blank deviates from a true plane. It's measured by placing the blank on a surface plate and checking the gap between the blank and the reference surface. Flatness is typically expressed as a maximum deviation over a given length — for example, 0.010" per foot.
+**Flatness** controls how much a blank deviates from a true plane. It's measured by placing the blank on a surface plate and checking the gap between the blank and the reference surface. Flatness is typically expressed as a maximum deviation over a given length (for example, 0.010" per foot).
 
 Standard hot-rolled plate flatness per ASTM A6 is surprisingly loose:
 
 - **Up to 36" wide:** 0.250" per foot maximum camber (bow along the length)
 - **Thickness under 1":** flatness tolerance of 0.375" to 0.750" depending on width and length
 
-That means a standard mill plate can have nearly 3/4" of bow across its surface and still be within spec. For most machining applications, that's unacceptable — which is why blanks are typically stress-relieved, saw-cut, and/or surface-ground before delivery.
+That means a standard mill plate can have nearly 3/4" of bow across its surface and still be within spec. For most machining applications, that's unacceptable, which is why blanks are typically stress-relieved, saw-cut, and/or surface-ground before delivery.
 
 ## Precision Grinding Options
 
@@ -109,7 +109,7 @@ When you send out a request for quote, unclear or excessive tolerance callouts a
 
 ### Call Out Only What Matters
 
-Not every dimension needs a tight tolerance. If you're machining all six faces of a blank, the saw-cut length and width tolerances are irrelevant — you're removing that material anyway. Focus your tolerance callouts on the dimensions that actually affect fit, function, or your machining process.
+Not every dimension needs a tight tolerance. If you're machining all six faces of a blank, the saw-cut length and width tolerances are irrelevant. You're removing that material anyway. Focus your tolerance callouts on the dimensions that actually affect fit, function, or your machining process.
 
 Common approach: specify tight thickness tolerance (because you're machining from one side and referencing off the other), standard tolerance on length and width (because you have machining allowance), and call out flatness if you're fixturing off a raw surface.
 
@@ -123,7 +123,7 @@ State whether you want hot-rolled, cold-rolled, annealed, stress-relieved, or pr
 
 ### Include Flatness If It Matters
 
-If flatness is important to your application, call it out explicitly. Don't assume the supplier will deliver flat material — standard plate can be bowed, twisted, or wavy and still meet mill specs. Specify flatness as a maximum deviation over a given length (e.g., "0.005" per 12" maximum").
+If flatness is important to your application, call it out explicitly. Don't assume the supplier will deliver flat material. Standard plate can be bowed, twisted, or wavy and still meet mill specs. Specify flatness as a maximum deviation over a given length (e.g., "0.005" per 12" maximum").
 
 ### State Your Inspection Method
 
@@ -135,4 +135,4 @@ Before specifying a tight tolerance, ask the supplier what their standard tolera
 
 ## The Bottom Line
 
-Tolerances are a cost lever. Every tenth of a thousandth you specify has a dollar value attached to it. Check our [live metal prices](/prices) page for current LME spot rates before specifying your RFQ. The goal is to match the tolerance to the actual functional requirement — tight enough that the part works, loose enough that you're not paying for precision that gets machined away. When in doubt, call the supplier and ask what they can hold as standard. You'll often find the answer is tighter than you expected.
+Tolerances are a cost lever. Every tenth of a thousandth you specify has a dollar value attached to it. Check our [live metal prices](/prices) page for current LME spot rates before specifying your RFQ. The goal is to match the tolerance to the actual functional requirement: tight enough that the part works, loose enough that you're not paying for precision that gets machined away. When in doubt, call the supplier and ask what they can hold as standard. You'll often find the answer is tighter than you expected.

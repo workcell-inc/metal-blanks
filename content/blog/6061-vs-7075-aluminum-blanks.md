@@ -19,7 +19,7 @@ readTime: "6 min read"
 
 7075 is an aluminum-zinc alloy (Al-Zn, or 7xxx series). It contains approximately 5.6% zinc, 2.5% magnesium, and 1.6% copper, with small amounts of chromium. The zinc and magnesium form MgZn2 precipitates during aging, producing significantly higher strength than the 6xxx system can achieve.
 
-That copper content in 7075 is the source of both its strength advantage and its Achilles' heel — it reduces corrosion resistance and makes the alloy essentially unweldable by conventional methods.
+That copper content in 7075 is the source of both its strength advantage and its Achilles' heel: it reduces corrosion resistance and makes the alloy essentially unweldable by conventional methods.
 
 ## Mechanical Properties Comparison
 
@@ -52,7 +52,7 @@ For most shop work, the machinability difference is marginal. Both alloys are in
 
 This is where the two alloys diverge sharply.
 
-**6061-T6** is readily weldable by TIG and MIG processes using 4043 or 5356 filler rod. The heat-affected zone will lose its T6 temper and drop to roughly T0 (annealed) strength, but the joint is sound and the part can be re-heat-treated if needed. For fabricated assemblies — frames, brackets, enclosures — 6061 is the standard choice.
+**6061-T6** is readily weldable by TIG and MIG processes using 4043 or 5356 filler rod. The heat-affected zone will lose its T6 temper and drop to roughly T0 (annealed) strength, but the joint is sound and the part can be re-heat-treated if needed. For fabricated assemblies (frames, brackets, enclosures), 6061 is the standard choice.
 
 **7075-T6** is generally considered unweldable by fusion processes for structural applications. The high zinc and copper content makes it prone to hot cracking and stress corrosion cracking in the heat-affected zone. Friction stir welding can join 7075, but that's a specialized process not available in most shops. If your design requires welded joints, 7075 is the wrong alloy.
 
@@ -60,7 +60,7 @@ This is where the two alloys diverge sharply.
 
 **6061-T6** has good corrosion resistance in most atmospheric and mild chemical environments. It forms a stable oxide layer and responds well to anodizing, which further improves protection. Type II (decorative) and Type III (hardcoat) anodizing both work well on 6061.
 
-**7075-T6** has notably worse corrosion resistance, particularly susceptibility to stress corrosion cracking and exfoliation corrosion. The copper content disrupts the protective oxide layer. 7075 can be anodized, but the resulting coating is typically less uniform and more porous than on 6061. In corrosive environments, 7075 parts usually need additional protection — primer, paint, or cladding.
+**7075-T6** has notably worse corrosion resistance, particularly susceptibility to stress corrosion cracking and exfoliation corrosion. The copper content disrupts the protective oxide layer. 7075 can be anodized, but the resulting coating is typically less uniform and more porous than on 6061. In corrosive environments, 7075 parts usually need additional protection: primer, paint, or cladding.
 
 Some suppliers offer 7075 in "Alclad" form, which is a 7075 core with thin layers of pure aluminum bonded to the surface. This significantly improves corrosion resistance but adds cost and isn't commonly available in blank form.
 
@@ -100,8 +100,8 @@ Pick 7075 when your application demands:
 
 ## Practical Recommendations
 
-If you're unsure which alloy to order, start with [6061-T6 aluminum sheet blanks](/materials/aluminum/sheet/6061-t6). It's cheaper, easier to source, more forgiving to work with, and strong enough for the vast majority of applications. Only step up to 7075 when you've done the stress analysis and confirmed that 6061 genuinely can't meet the load requirements — or when an industry spec (like an aerospace callout) mandates it.
+If you're unsure which alloy to order, start with [6061-T6 aluminum sheet blanks](/materials/aluminum/sheet/6061-t6). It's cheaper, easier to source, more forgiving to work with, and strong enough for the vast majority of applications. Only step up to 7075 when you've done the stress analysis and confirmed that 6061 genuinely can't meet the load requirements, or when an industry spec (like an aerospace callout) mandates it.
 
 For prototyping, 6061 is almost always the right call regardless of what the production alloy will be. It's faster to source, cheaper to scrap if the design changes, and machines identically enough that your CNC programs will transfer to 7075 with minimal adjustment.
 
-Order blanks slightly oversized — add at least 0.100" to each finished dimension. See our [5052-H32 aluminum sheet blanks](/materials/aluminum/sheet/5052-h32) page for another popular option when corrosion resistance is the priority. This gives you room to clean up saw marks, correct for any bow or twist in the stock, and dial in your setup without running short on material.
+Order blanks slightly oversized. Add at least 0.100" to each finished dimension. See our [5052-H32 aluminum sheet blanks](/materials/aluminum/sheet/5052-h32) page for another popular option when corrosion resistance is the priority. This gives you room to clean up saw marks, correct for any bow or twist in the stock, and dial in your setup without running short on material.

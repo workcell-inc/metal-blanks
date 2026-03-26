@@ -95,7 +95,7 @@ export default function Home() {
               name: "Metal-Blanks.com",
               url: "https://metal-blanks.com",
               description:
-                "The industry resource for precision-cut metal blanks — steel, aluminum, copper, brass, stainless steel, and titanium.",
+                "The industry resource for precision-cut metal blanks: steel, aluminum, copper, brass, stainless steel, and titanium.",
               contactPoint: {
                 "@type": "ContactPoint",
                 contactType: "sales",
@@ -124,7 +124,7 @@ export default function Home() {
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground md:text-xl">
             The industry resource for steel, aluminum, copper, and specialty
-            metal blanks — from precision machining stock to laser-cut shapes.
+            metal blanks, from precision machining stock to laser-cut shapes.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <a

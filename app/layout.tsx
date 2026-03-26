@@ -39,14 +39,14 @@ export const metadata: Metadata = {
     siteName: "Metal-Blanks.com",
     title: "Metal Blanks | Cut to Size Steel, Aluminum, Copper & More",
     description:
-      "The industry resource for steel, aluminum, copper, and specialty metal blanks — from precision machining stock to laser-cut shapes.",
+      "The industry resource for steel, aluminum, copper, and specialty metal blanks, from precision machining stock to laser-cut shapes.",
     url: "https://metal-blanks.com",
   },
   twitter: {
     card: "summary_large_image",
     title: "Metal Blanks | Cut to Size Steel, Aluminum, Copper & More",
     description:
-      "The industry resource for steel, aluminum, copper, and specialty metal blanks — from precision machining stock to laser-cut shapes.",
+      "The industry resource for steel, aluminum, copper, and specialty metal blanks, from precision machining stock to laser-cut shapes.",
   },
 };
 

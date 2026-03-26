@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Contact Us — Get in Touch",
+  title: "Contact Us: Get in Touch",
   description:
     "Get in touch with Metal-Blanks.com for questions about metal blanks, quotes, or orders. We typically respond within one business day.",
   alternates: {
